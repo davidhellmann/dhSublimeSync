@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CodeKit",
+		"CSS3",
+		"EditorConfig",
+		"Emmet",
+		"FakeImg.pl Image Placeholder Snippet",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"jQuery",
+		"Numix Theme",
+		"Package Control",
+		"PHP-Twig",
+		"Railscasts Extended",
+		"SideBarEnhancements",
+		"Syntax Highlighting for Sass",
+		"WordPress"
+	]
+}
